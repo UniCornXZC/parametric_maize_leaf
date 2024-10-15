@@ -10,7 +10,7 @@ Implementation of the research paper *Modeling Maize Leaf Geometry and Surface A
 - GLM
 
 ## Usage
-Please check 'main.cpp' for details.
+Please check `main.cpp` for details.
 
 ## Example
 
