@@ -1,0 +1,11 @@
+leaf_1.7_2.8_0.7_0.05_0.55-7_45.0_30.0--0.3_0.0_0.0_0.0_I3REI
+
+area, m1, m2, length, width, width_ratio, thickness, curve_num, max_angle_y, max_angle_z, px, py, pz, rx, ry, rz
+365.236, 1.66045, 2.76311, 0.749346, 0.051306, 0.545804, 0.0002, 7, 45, 30, 0, -0.105874, -0.300115, 0, 0, 0, 
+
+FRAME_ROTATION_ANGLE_Y
+y0, y1, y2, y3, y4, y5, y6
+5.85, -18, 28.35, -24.75, 11.25, -26.1, 7.65
+FRAME_ROTATION_ANGLE_Z
+z0, z1, z2, z3, z4, z5, z6
+17.1, -14.4, 9, -21, 6, -12.6, 28.5
